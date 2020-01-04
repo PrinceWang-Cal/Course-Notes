@@ -8,7 +8,7 @@ This repository is a collection of the notes I have taken for classes in UC Berk
 
 Statistics 140 Probability for Data Science
 
-Math 53 Multivariate Calculus
+Math 53 Multivariable Calculus
 
 Computer Science 189 Introduction to Machine Learning
 
